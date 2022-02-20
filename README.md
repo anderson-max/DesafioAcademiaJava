@@ -1,7 +1,7 @@
 # Índice 
 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Título  da capa](#Título-e-Imagem-de-capa)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades do Projeto](#funcionalidades-e-demonstração-da-aplicação)
